@@ -1,0 +1,1 @@
+joke.py uses openai, internally uses model="openai/gpt-4o-mini" which is avaialble in githib.com/marketplaces under catalogue
